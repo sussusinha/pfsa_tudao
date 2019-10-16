@@ -1,0 +1,11 @@
+# Ambiente Virtual
+
+env/
+
+#pycache
+
+__pycache__
+
+# environment
+
+.env

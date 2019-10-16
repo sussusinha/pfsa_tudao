@@ -1,0 +1,7 @@
+
+Baixar CSS de ícones e utilizar no HTML
+https://fontawesome.com
+
+Exemplos de Dashboards e utilitários
+https://getbootstrap.com/
+
